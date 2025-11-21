@@ -1,0 +1,32 @@
+{
+  "reverse_connect.open_rcscreen":"通过代理服务器反向连接",
+
+  "reverse_connect.title": "反向连接",
+
+  "reverse_connect.edge_ip_edit": "代理服务器地址",
+  "reverse_connect.connect": "连接",
+  "reverse_connect.publish_tip": "已连接到代理服务器",
+  "reverse_connect.publish_tip_2": "您需要先进行对局域网开放才可连接代理服务器",
+
+  "reverse_connect.connect_success": "已成功连接到位于端口 %s 上的代理服务器",
+  "reverse_connect.connect_close": "与代理服务器 %s 断开连接",
+
+  "reverse_connect.connecting": "正在连接...",
+  "reverse_connect.connect_successful": "连接成功",
+  "reverse_connect.closed": "连接关闭",
+  "reverse_connect.failed": "连接失败",
+
+  "reverse_connect.address_err": "地址错误",
+  "reverse_connect.connect_err": "连接错误",
+
+  "reverse_connect.proxyserver_title": "代理服务器",
+  "reverse_connect.proxy_port": "主服务器连接端口(服务器连接)",
+  "reverse_connect.user_port": "用户连接端口(其他玩家连接)",
+  "reverse_connect.open": "开启",
+  "reverse_connect.close": "关闭",
+  "reverse_connect.server_started": "已开启服务",
+
+  "reverse_connect.open_proxyserverscreen": "开启代理服务",
+
+  "reverse_connect.proxy_connect": "后端服务端已连接"
+}
